@@ -19,7 +19,6 @@ num.forEach(n => {
 setInterval(moveClock, 1000);
 
 function moveClock(){
-    console.log("im in")
     const d = new Date();
     var minutes = d.getMinutes();
     var hour = d.getHours();
