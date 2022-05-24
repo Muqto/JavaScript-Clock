@@ -1,2 +1,3 @@
 # JavaScript-Clock
-Clock made using JavaScript, CSS, HTML
+Created the look of the clock using HTML,CSS and JavaScript  
+Created the functionality of the clock using Javascript
